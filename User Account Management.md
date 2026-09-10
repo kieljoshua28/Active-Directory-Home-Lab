@@ -22,5 +22,13 @@ I used linux journey to learn and practice user account management.
 5. Changing home directory of a user
 <img width="513" height="101" alt="Screenshot 2026-09-10 134911" src="https://github.com/user-attachments/assets/4c9113b1-ec69-4eca-abc7-a9fb85d37136" />
 
+6. Modifying user default shell
+<img width="482" height="112" alt="Screenshot 2026-09-10 135250" src="https://github.com/user-attachments/assets/5399d3a5-6f79-480f-878f-777835c33d74" />
+
+7. Adding a User to a Group
+<img width="707" height="207" alt="Screenshot 2026-09-10 135808" src="https://github.com/user-attachments/assets/e07fbc40-d938-4722-8824-bbc732b9deda" />
+<img width="1281" height="851" alt="Screenshot 2026-09-10 135817" src="https://github.com/user-attachments/assets/dba3e803-ed8a-4ca6-ae7f-a11cca3362e8" />
+
+
 
 
