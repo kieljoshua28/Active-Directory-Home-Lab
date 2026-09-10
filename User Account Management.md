@@ -4,6 +4,7 @@ I used linux journey to learn and practice user account management.
  <img width="1267" height="852" alt="Screenshot 2026-09-10 133602" src="https://github.com/user-attachments/assets/33451974-39c9-42f2-9d28-2a26a041a990" />
 
 <br>
+<br>
 
 2. Check if new user is created.
    <img width="1282" height="195" alt="Screenshot 2026-09-10 134013" src="https://github.com/user-attachments/assets/8119eda0-e28d-4428-b726-fcb7fff04b62" />
