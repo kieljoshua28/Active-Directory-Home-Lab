@@ -29,6 +29,13 @@ I used linux journey to learn and practice user account management.
 <img width="707" height="207" alt="Screenshot 2026-09-10 135808" src="https://github.com/user-attachments/assets/e07fbc40-d938-4722-8824-bbc732b9deda" />
 <img width="1281" height="851" alt="Screenshot 2026-09-10 135817" src="https://github.com/user-attachments/assets/dba3e803-ed8a-4ca6-ae7f-a11cca3362e8" />
 
+8. Locking and Unlocking User Accounts
+<img width="686" height="300" alt="Screenshot 2026-09-10 140038" src="https://github.com/user-attachments/assets/ec9be3b7-0be5-4852-82eb-ed1a021af384" />
+
+9. Deleting a User
+<img width="597" height="136" alt="Screenshot 2026-09-10 140249" src="https://github.com/user-attachments/assets/b6fc9139-9fa0-4028-b8fd-01504583b67b" />
+
+
 
 
 
