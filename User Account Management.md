@@ -16,6 +16,11 @@ I used linux journey to learn and practice user account management.
 
 <br>
 
-4. Adding password to user
+4. Adding password to user.
  <img width="387" height="130" alt="Screenshot 2026-09-10 134451" src="https://github.com/user-attachments/assets/5be9c583-ae08-407d-809a-74dc96d3fcee" />
+
+5. Changing home directory of a user
+<img width="513" height="101" alt="Screenshot 2026-09-10 134911" src="https://github.com/user-attachments/assets/4c9113b1-ec69-4eca-abc7-a9fb85d37136" />
+
+
 
